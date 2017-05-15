@@ -1,5 +1,7 @@
 # README
 
+Exemplo de alteração de fonte na aula de Engenharia de Software 2015-05-15.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
